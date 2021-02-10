@@ -41,6 +41,9 @@ p {
 
 hr {
   border-top: 5px dotted #abd5ce;
+  border-left: 0 ;
+  border-right: 0;
+  border-bottom: 0;
   width: 45px;
   margin: 100px auto;
   /* color: #EAF6F6 */
